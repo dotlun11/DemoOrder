@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Booking</string>
+    <string name="hint"> Foods: \nFood2: \nFood3: </string>
+    <string name="hint_coffee"> Drink1: \nDrink2: \nDrink3: </string>
+    <string name="hint_karaoke"> Karaoke1: \nKaraoke2: \nKaraoke3: </string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Phone</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

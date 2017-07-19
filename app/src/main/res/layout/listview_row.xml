@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/txtID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ID:" />
+
+    <TextView
+        android:id="@+id/txtName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ten:"/>
+
+    <TextView
+        android:id="@+id/txtEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email:"/>
+
+    <TextView
+        android:id="@+id/txtSDT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SDT:"/>
+
+    <TextView
+        android:id="@+id/txtNoiDung"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NoiDung:" />
+</LinearLayout>
